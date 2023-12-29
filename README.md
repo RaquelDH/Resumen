@@ -4,7 +4,7 @@
 
 **2022-2024 Coaching, mentoring & business management**: Más de 1800 horas de formación en Agile, Scrum, Lean, Management, leadership, I+D+i, minfulness, PNL, negociación. https://github.com/RaquelDH/Skills
  
-**2022-2024 Software Engineer & System administrator**: Más de 1200 horas de formación en SaaS, DevOps, Scrum, Kanban, AWS, Cloud Computing, blockchain, CSS, HTML, Java, PHP, gestión BBDD. https://github.com/RaquelDH/Web
+**2022-2024 Software Engineer & System administrator**: Más de 1200 horas de formación en SaaS, DevOps, Kanban, AWS, Cloud Computing, blockchain, CSS, HTML, Java, PHP, gestión BBDD. https://github.com/RaquelDH/Web
 
 **2022-2024	Cybersecurity and Ethical Hacking**: Más de 800 horas de formación en ISO 27001, RGPD, auditoría TIC, certificado digital, firewalls, criptografía. https://github.com/RaquelDH/Ethical
 
